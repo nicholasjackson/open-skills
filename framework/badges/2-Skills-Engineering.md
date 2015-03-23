@@ -1,8 +1,6 @@
 # Software Engineering
 
 ## Programming Language
-
-### Description
 Programming Language: It is possible to apply for this badge multiple times should you have knowledge or competency in more than one language.
 ### Bronze
 Obtained all required competencies at the required level for the badge as defined in the language sheet.
