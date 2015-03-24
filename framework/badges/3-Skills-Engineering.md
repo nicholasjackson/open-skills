@@ -1,4 +1,8 @@
-# Software Engineering
+# Software Engineering Badges
+
+- [Programming Language](#programming-language)
+- [Open Source](#open-source)
+- [Participation](#participation)
 
 ## Programming Language
 Programming Language: It is possible to apply for this badge multiple times should you have knowledge or competency in more than one language.
@@ -11,5 +15,18 @@ Advanced and in depth knowledge of all language concepts, can explain technical 
 ### Platinum
 Are you Jake Whalton or Matt Thompson?
 
+----
 ## Open Source
  Participation in one or more open source communities
+### Bronze
+Fix bugs in an open source project
+### Silver
+Creates/leads on features/functions on an active open-source project
+### Gold
+Creates and drives an active open-source project with wide acceptance/use
+### Platinum
+Creates and drives an active open-source framework which is regarded by the community as a framework extension (i.e. Dagger,  AFNetworking).
+
+----
+## Participation
+Sharing skills and knowledge via talks, meet-ups, authorship, conferences
