@@ -10,3 +10,6 @@ Working and practiced knowledge of all language concepts, working knowledge of c
 Advanced and in depth knowledge of all language concepts, can explain technical detail behind each feature from a performance and technical implementation level. Understands complexity behind the compiler and linker best practice for creating performant code.  Regarded as one of the oracles within the organisation.
 ### Platinum
 Are you Jake Whalton or Matt Thompson?
+
+## Open Source
+ Participation in one or more open source communities
