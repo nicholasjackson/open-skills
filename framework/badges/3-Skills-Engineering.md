@@ -50,8 +50,8 @@ Speaks at national or international conferences
 Authors refereed papers or books/chapters
 
 ---- 
-## Code Design : SOLID, STUPID, Design Patterns
- Application of the SOLID principles
+## Code Design
+ SOLID, STUPID, Design Patterns
 ### Bronze
 Code written shows evidence of the principles being applied
 ### Silver
@@ -99,7 +99,7 @@ As Gold with the addition of leading an external company or supplier
 
 ---- 
 ## Technical Design Authority
-expert in language / systems etc (TO BE REVISED)
+expert in language / systems etc ++(TO BE REVISED)++
 ### Bronze
 ### Silver
 ### Gold
@@ -107,7 +107,7 @@ expert in language / systems etc (TO BE REVISED)
 
 ---- 
 ## Coaching (1 to many)
-TO BE REVISED
+%% TO BE REVISED
 ### Bronze
 ### Silver
 ### Gold
