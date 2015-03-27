@@ -36,7 +36,7 @@
 | Control flow (If, For, While, Do-While, Switch, iterating over collections) | W | W
 | Patterns when using switch statements (Tupes, Range matching, value binding, where) | C | W
 | Control transfer statements (continue, break, fall-through, return) |  | W
-| Functions (definition, calling, input parameters, return parameters, multiple return types, external parameter names, default parameter values, varidic parameters, difference between constant and variable parameters, In-Out parameters) | C | W
+| Functions (definition, calling, input parameters, return parameters, multiple return types, external parameter names, default parameter values, variadic parameters, difference between constant and variable parameters, In-Out parameters) | C | W
 | Function Types (definition and assignment, passing as parameter, returning as type from functions) |  | W
 | Closures (use and best practice) |  | W
 | Enumerations (Definition and best practice, short notation in control flow, assignment with value) | C | W
