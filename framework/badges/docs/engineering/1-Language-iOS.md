@@ -1,12 +1,12 @@
 # Language / Platform iOS
-| Key         |||
-|=============|:===============:|===========| 
-| Complete understanding of all the concepts and practical knowledge of implementation | W | Working Knowledge 
+| Key  |||
+|------|-------|-------
+| Complete understanding of all the concepts and practical knowledge of implementation | W | Working Knowledge
 | Conceptual knowledge of area and may have practical implementation knowledge for one or more concepts | C | Conceptual Knowledge 
 
 ### General Features
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | Ability to create a project, build it and deploy to both device and simulator | W | W
 | Ability to build a user interface using storyboards and segues | W | W
 | Interoperability with ObjectiveC | | W
@@ -16,7 +16,7 @@
 
 ### Testing
 | Competency  | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | Knowledge and use of XCTest | C | W
 | Knowledge and use of functional testing |  | W
 | Ability to structure code based on standard patterns to enable testability | C | W
@@ -24,7 +24,7 @@
 
 ### Language Features
 | Competency  | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | Declaring constants and variables (difference between let and var, declaring type) | W | W
 | Understands major types and can explain differences | W | W
 | Optionals (standard, explicitly unwrapped, unwrapping, patterns and best practice) | C | W
@@ -62,7 +62,7 @@
 
 ### Frameworks - Cocoa Touch Layer
 | Competency  | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | AddressBookUI |  | C
 | EventKitUI |  | C
 | GameKit |  | C
@@ -76,7 +76,7 @@
 
 ### Frameworks - Media Layer
 | Competency  | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | AVFoundation |  | C
 | AssetsLibrary | C | W
 | AudioToolbox |  | C
@@ -102,7 +102,7 @@
 
 ### Frameworks - Core Services Layer
 | Competency  | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | Accounts |  | C
 | AdSupport |  | C
 | AddressBook |  | C
@@ -132,12 +132,10 @@
 
 ### Frameworks - Core OS Layer
 | Competency  | Bronze | Silver
-|=============|:==========:|:==========:
+|----------------|:----------------:|:----------------:
 | Accelerate |  | C
 | CoreBluetooth |  | C
 | ExternalAccessory |  | C
 | LocalAuthentication |  | C
 | Security |  | C
 | System |  | C
-
-

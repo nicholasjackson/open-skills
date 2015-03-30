@@ -1,13 +1,13 @@
 
 # Language / Platform iOS
 | Key         |||
-|=============|:===============:|===========| 
+|-----------|:------------:|-----------| 
 | Complete understanding of all the concepts and practical knowledge of implementation | W | Working Knowledge 
 | Conceptual knowledge of area and may have practical implementation knowledge for one or more concepts | C | Conceptual Knowledge 
 
 ### General Features
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Ability to create a project, build it and deploy to both device and simulator | W | W
 | Ability to build a user interface using activities and fragments | W | W
 | Ability to build custom controls | W | W
@@ -17,7 +17,7 @@
 
 ### Testing
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Knowledge and use of Activity Instrumentation Tests and JUnit | C | W
 | Knowledge and use of functional testing (Calabash, Cucumber JVM) |  | W
 | Ability to structure code based on standard patterns to enable testability | C | W
@@ -25,7 +25,7 @@
 
 ### Language Features
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Declaring constants and variables (knowledge of final) | W | W
 | Understands major types and can explain differences | W | W
 | Assertions |  | C
@@ -52,7 +52,7 @@
 
 ### Frameworks - App Components
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Intents and Intent Filters | W | W
 | Activities | W | W
 | Services | C | W
@@ -63,14 +63,14 @@
 
 ### Frameworks - App Resources
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Providing Resources | C | C
 | Localisation |  | C
 | Resource Types | C | C
 
 ### Frameworks - User Interface
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Layouts | W | W
 | Input Controls | W | W
 | Input Events |  | C
@@ -88,7 +88,7 @@
 
 ### Frameworks - Animation and Graphics
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Property Animation |  | C
 | View Animation |  | C
 | Drawable Animation |  | C
@@ -98,12 +98,12 @@
 
 ### Frameworks - Computation
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | RenderScript |  | C
 
 ### Frameworks - Media and Camera
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Media Playback |  | C
 | Media Router |  | C
 | Media Route Provider |  | C
@@ -115,7 +115,7 @@
 
 ### Frameworks - Location and Sensors
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Location and Maps |  | C
 | Location Strategies |  | C
 | Sensors Overview |  | C
@@ -125,7 +125,7 @@
 
 ### Frameworks - Connectivity
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Bluetooth |  | C
 | NFC |  | C
 | WiFi P2P |  | C
@@ -134,46 +134,46 @@
 
 ### Frameworks - Text an Input
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Copy and Paste |  | C
 | Creating an IME |  | C
 | Spelling Checker |  | C
 
 ### Frameworks - Data Storage
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Storage Options |  | C
 | Data Backup |  | C
 | App Install Location |  | C
 
 ### Frameworks - Administration
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Device Policies |  | C
 
 ### Frameworks - Web Apps
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Building Web Apps in WebView |  | C
 | Debugging Web Apps |  | C
 
 ### Frameworks - Best Practices
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Supporting Multiple Screens |  | C
 | Supporting Tablets and Handsets |  | C
 | Verifying App Behaviour on ART |  | C
 
 ### Frameworks - Best Practices
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Supporting Multiple Screens |  | C
 | Supporting Tablets and Handsets |  | C
 | Verifying App Behaviour on ART |  | C
 
 ### Frameworks - Play Services
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Google+ |  | C
 | Google Account Login |  | C
 | Google Activity Recognition |  | C
@@ -193,7 +193,7 @@
 
 ### Frameworks - 3rd Party Frameworks
 | Competency | Bronze | Silver
-|=============|:==========:|:==========:
+|-----------|:-------------:|:-------------:
 | Reactive Extensions |  | C
 | Dagger |  | C
 | Guice |  | C
