@@ -1,6 +1,8 @@
 
 # NOTE: Work in progress
 
+[![Join the chat at https://gitter.im/nicholasjackson/open-skills](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nicholasjackson/open-skills?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Open Skills Framework
 The Open Skills Framework is not designed to replace your current HR process it is designed to enhance it.  We work for a large corporate the fight to change that process is one just not worth having.  That said the engagement from our software development teams with the existing HR process is quite poor.  At best they ignore it at worst they hate it, the main problem for this is that it does not go deep enough to look at an individuals skills and the lax implementation by most line managers do little to develop those unidentified skills.
 
