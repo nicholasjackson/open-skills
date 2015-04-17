@@ -13,11 +13,11 @@ When we were speaking to our development team there was a general consensus that
 
 ## Concepts
 * Provide a framework to measure developer skills
-* Directly relate skill to remuneration
 * Create a way for employees to have improved personal and technical development
-* Provide a way to balance current salary to market rates
 * Level field of measurement
-* Increase employee retention by removing salary as a reason for leaving
+* Provide a way to balance current salary to market rates
+* Directly relate skill to remuneration - TO REMOVE?
+* Increase employee retention by removing salary and career development as a reason for leaving
 
 ## Why Open Source
-Well we figured we don’t have all the answers, some stuff we will get wrong some stuff we just have no idea about yet.  The concept of producing an Agile and evolving framework was appealing, producing something which potentially could draw successes from external organisations was also very appealing.
+Well we figured we don’t have all the answers, some stuff we will get wrong some stuff we just have no idea about yet.  The concept of producing an Agile and evolving framework was appealing, producing something which potentially could draw successes from external organizations was also very appealing.

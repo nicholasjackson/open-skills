@@ -1,5 +1,5 @@
 # New Starters
-The new starter assessment flow is slightly different from the twice yearly assessment however the concept is the same.  It is designed to encourage all employees to advance their skills and grow as developers.  The intention is to provide a development plan for new starters immediately setting out what is expected from them in the first three months with the company.  Post probation the flow returns to the standard twice yearly assessment.
+The new starter assessment flow is slightly different from the quarterly assessment however the concept is the same.  It is designed to encourage all employees to advance their skills and grow as developers.  The intention is to provide a development plan for new starters immediately setting out what is expected from them in the first three months with the company.  Post probation the flow returns to the standard twice yearly assessment.
 
 ## Flow
 ![][image-1]

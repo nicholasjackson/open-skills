@@ -1,5 +1,7 @@
 # Generic Skills Badges
 
+The below skills are deemed cross discipline, that is they are applicable to many people regardless of role.
+
 - [Participation][3]
 - [Collaboration][5]
 - [Initiative][6]

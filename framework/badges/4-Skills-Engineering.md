@@ -1,5 +1,7 @@
 # Software Engineering Badges
 
+The below skills are representative of the software development or engineering discipline.
+
 - [Programming Language][1]
 - [Open Source][2]
 - [Code Design][4]
@@ -18,6 +20,8 @@ Working and practiced knowledge of all language concepts, working knowledge of c
 Advanced and in depth knowledge of all language concepts, can explain technical detail behind each feature from a performance and technical implementation level. Understands complexity behind the compiler and linker best practice for creating performant code.  Regarded as one of the oracles within the organisation.
 ### Platinum
 Are you Jake Whalton or Matt Thompson?
+### Further Info
+
 
 ----
 ## Open Source
