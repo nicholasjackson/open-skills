@@ -2,10 +2,10 @@
 
 This discipline contains skills which are oriented around leadership and soft skills such as coaching and mentoring.  Whilst a person performing a traditional managerial role may be heavily weighted in this area the skills are applicable to everyone.
 
-- [Technical Leadership][7]
-- [Technical Design Authority][8]
-- [Coaching][1]
-- [Mentoring][1]
+- Technical Leadership
+- Technical Design Authority
+- Coaching
+- Mentoring
 
 ## Technical Leadership
 The ability to guide and support others
