@@ -26,9 +26,9 @@ Working effectively with others
 ### Bronze
 Work comfortably and effectively with others in their delivery team, including pair-programme successfully, contributing constructively to team performance and working well with mentor
 ### Silver
-Completes self-assigned tasks and initiatives beyond direct instruction, using innovative and creative approaches as appropriate and demonstrating a willingness to seek help from, and offer help to, others
+Works comfortably with the delivery team and other teams in the department, responsible for orchestrating and maintaining relationships between teams.
 ### Gold
-Completes self-assigned tasks and initiatives at a product- or strategic-initiative level that demonstrate creative or innovative aspects and that serve as a model to others
+Works comfortably with other departments within the business and pro-actively seeking relationships which can benefit the business.  Encourages other team members to follow their lead.
 ### Platinum
 As Gold but with the additional involvement of an external company or organisation
 
@@ -46,11 +46,11 @@ As gold with the exception that the outcome influences external organisations
 
 ----
 ## Agility
-Demonstrating Adoption of Agile Work Practices and of Flexibility and Resilience in Thought and Behaviour
+Demonstrating Adoption of Agile Work Practices and of Flexibility and Resilience in Thought and Behavior
 ### Bronze
-Completion of the ADP Green-belt and Level 1 Adaptive Agalista development programmes, the demonstration of the ability to follow agile development processes and demonstrating resilience and flexibility in thought and behaviour
+Completion of the ADP Green-belt and Level 1 Adaptive Agalista development programmes, the demonstration of the ability to follow agile development processes and demonstrating resilience and flexibility in thought and behavior
 ### Silver
-Completion of the ADP Black-belt and Level 2 Adaptive Agalista development programmes, the demonstration of the ability to amend and improve agile development processes and demonstrating resilience and flexibility in thought and behaviour
+Completion of the ADP Black-belt and Level 2 Adaptive Agalista development programmes, the demonstration of the ability to amend and improve agile development processes and demonstrating resilience and flexibility in thought and behavior
 ### Gold
 Completion of the ADP Red-belt and Level 3 Adaptive Agalista development programmes, the demonstration of the ability to coach and develop others in the application and improvement agile development processes and in the demonstration of resilience and flexibility in thought and behaviour
 ### Platinum
