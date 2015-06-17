@@ -7,6 +7,7 @@ The below skills are deemed cross discipline, that is they are applicable to man
 - Initiative
 - Agility
 - Innovation
+- Delivery
 
 ----
 ## Participation
@@ -65,5 +66,17 @@ Using 10% time to create something that is used
 Identifies a corporate need and fulfils it
 ### Gold
 As Silver, but the development is transformative/ground-breaking
+### Platinum
+As Gold, but with the involvement and contribution of external companies
+
+----
+## Delivery
+Demonstrate the your capability to deliver assigned tasks and features
+### Bronze
+Successfully deliver all asisigned tasks within your team
+### Silver
+Successfully assist with delivering cross product team tasks
+### Gold
+Deliver tasks which are influential to the entire company
 ### Platinum
 As Gold, but with the involvement and contribution of external companies
