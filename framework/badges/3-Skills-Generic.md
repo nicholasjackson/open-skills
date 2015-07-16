@@ -12,13 +12,13 @@ The below skills are deemed cross discipline, that is they are applicable to man
 
 ----
 ## Participation
-Sharing skills and knowledge via talks, meet-ups, authorship, conferences, promotes and supports company policies, process, mission, values, and standards of ethics and integrity.
+Sharing skills and knowledge via talks, meet-ups, authorship, conferences, promotes and supports company initiatives, process, mission, values, and standards of ethics and integrity.
 ### Bronze
-Give tech-talks, attend (and share with the team) meet-ups and conferences and contributes to a team blog.
+Give tech-talks, attend (and share with the team) meet-ups and conferences and contributes to a team blog, supports/participates in company initiatives.
 ### Silver
-Gives talks at meet-ups and writes own blog that has a identifiable reputation outside the company, promotes and supports company policy within delivery team.
+Gives talks at meet-ups and writes own blog that has a identifiable reputation outside the company, promotes and supports company initiatives within delivery team.
 ### Gold
-Speaks at national or international conferences, helps to define and create company policy and values.
+Speaks at national or international conferences, helps to define and create company initiatives and values.
 ### Platinum
 Authors refereed papers or books/chapters.
 
@@ -86,9 +86,9 @@ As Gold, but with the involvement and contribution of external companies
 ## Business Acumen
 Keenness and quickness in understanding and dealing with a business situation in a manner that is likely to lead to a good outcome.
 ### Bronze
-Understand how your actions and decisions impact key company measures and the objectives of your company’s leadership, decisive in executing these actions.
+Understand how your actions and decisions impact key company measures and the objectives of your company’s leadership, decisive in executing these actions, awareness of current business activity, strategy and short term goals.
 ### Silver
-Effectively communicate your ideas to other employees, managers, executives, and the public, are mindful of the implications of a choice for all the affected parties.
+Effectively communicate your ideas to other employees, managers, executives, and the external stakeholders, are mindful of the implications of a choice for all the affected parties.
 ### Gold
 Understand important company communications and data, including financial statements, Can make sense out of complexity and an uncertain future.
 ### Platinum
