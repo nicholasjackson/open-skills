@@ -2,36 +2,37 @@
 
 The below skills are deemed cross discipline, that is they are applicable to many people regardless of role.
 
-- Participation
-- Collaboration
-- Initiative
-- Agility
-- Innovation
-- Delivery
+- [Participation][1]
+- [Collaboration][2]
+- [Initiative][3]
+- [Agility][4]
+- [Innovation][5]
+- [Delivery][6]
+- [Business Acumen][7]
 
 ----
 ## Participation
-Sharing skills and knowledge via talks, meet-ups, authorship, conferences
+Sharing skills and knowledge via talks, meet-ups, authorship, conferences, promotes and supports company policies, process, mission, values, and standards of ethics and integrity.
 ### Bronze
-Give tech-talks, attend (and share with the team) meet-ups and conferences and contributes to a team blog
+Give tech-talks, attend (and share with the team) meet-ups and conferences and contributes to a team blog.
 ### Silver
-Gives talks at meet-ups and writes own blog that has a identifiable reputation outside the company
+Gives talks at meet-ups and writes own blog that has a identifiable reputation outside the company, promotes and supports company policy within delivery team.
 ### Gold
-Speaks at national or international conferences
+Speaks at national or international conferences, helps to define and create company policy and values.
 ### Platinum
-Authors refereed papers or books/chapters
+Authors refereed papers or books/chapters.
 
 ----
 ## Collaboration
-Working effectively with others
+Working effectively with others.
 ### Bronze
-Work comfortably and effectively with others in their delivery team, including pair-programme successfully, contributing constructively to team performance and working well with mentor
+Work comfortably and effectively with others in their delivery team, including pair-programme successfully, contributing constructively to team performance and working well with mentor.
 ### Silver
 Works comfortably with the delivery team and other teams in the department, responsible for orchestrating and maintaining relationships between teams.
 ### Gold
 Works comfortably with other departments within the business and pro-actively seeking relationships which can benefit the business.  Encourages other team members to follow their lead.
 ### Platinum
-As Gold but with the additional involvement of an external company or organisation
+As Gold but with the additional involvement of an external company or organisation.
 
 ----
 ## Initiative
@@ -73,10 +74,31 @@ As Gold, but with the involvement and contribution of external companies
 ## Delivery
 Demonstrate the your capability to deliver assigned tasks and features
 ### Bronze
-Successfully deliver all asisigned tasks within your team
+Successfully deliver all assigned tasks within your team
 ### Silver
 Successfully assist with delivering cross product team tasks
 ### Gold
 Deliver tasks which are influential to the entire company
 ### Platinum
 As Gold, but with the involvement and contribution of external companies
+
+----
+## Business Acumen
+Keenness and quickness in understanding and dealing with a business situation in a manner that is likely to lead to a good outcome.
+### Bronze
+Understand how your actions and decisions impact key company measures and the objectives of your company’s leadership, decisive in executing these actions.
+### Silver
+Effectively communicate your ideas to other employees, managers, executives, and the public, are mindful of the implications of a choice for all the affected parties.
+### Gold
+Understand important company communications and data, including financial statements, Can make sense out of complexity and an uncertain future.
+### Platinum
+See the “big picture” of your organization—how the key drivers of your business relate to each other, work together to produce profitable growth, and relate to the job you do each day.
+
+
+[1]:	#participation
+[2]:	#collaboration
+[3]:	#initiative
+[4]:	#agility
+[5]:	#innovation
+[6]:	#delivery
+[7]:	#business-acumen

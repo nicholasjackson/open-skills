@@ -4,10 +4,10 @@ The below skills are representative of the software development or engineering d
 
 - [Programming Language][1]
 - [Open Source][2]
-- [Code Design][4]
-- [Outside In Development][11]
-- [DevOps][12]
-- [Secure Application Development Lifecycle][13]
+- [Code Design][3]
+- [Outside In Development][4]
+- [DevOps][5]
+- [Secure Application Development Lifecycle][6]
 
 
 ## Programming Language
@@ -83,18 +83,10 @@ Could you work for the Security guys? Go ask them for a job, if you get it you g
 ### Platinum
 Regarded by industry as one of the leaders in the field of secure code development
 
-----
 
 [1]:	#programming-language
 [2]:	#open-source
-[3]:	#participation
-[4]:	#solid
-[5]:	#collaboration
-[6]:	#initiative
-[7]:	#technical-leadership
-[8]:	#technical%20-design-authority
-[9]:	#agility
-[10]:	#innovation
-[11]:	#outside%20in%20development
-[12]:	#devOps
-[13]:	#secure-application-development-lifecycle
+[3]:	#code-design
+[4]:	#outside-in-development
+[5]:	#devops
+[6]:	#secure-application-development-lifecycle
