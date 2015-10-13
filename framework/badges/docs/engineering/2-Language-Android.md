@@ -1,5 +1,5 @@
 
-# Language / Platform iOS
+# Language / Platform Android
 | Key         |||
 |-----------|:------------:|-----------| 
 | Complete understanding of all the concepts and practical knowledge of implementation | W | Working Knowledge 
