@@ -19,8 +19,8 @@ Leading a number of dedicated teams of engineering and non-engineering staff in 
 As Gold with the addition of leading an external company or supplier
 
 ----
-## Technical Design Authority
-expert in language / systems etc ++(TO BE REVISED)++
+## Software and systems design and implementation
+expert in language / systems etc
 ### Bronze
 ### Silver
 ### Gold
